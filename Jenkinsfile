@@ -1,9 +1,9 @@
 pipeline {
     agent any
     stages {
-        stage('Jenkins Candidatura') {
+        stage('Jenkins Inscricao') {
             steps {
-                echo 'Jenkins Candidatura'
+                echo 'Jenkins Inscricao'
             }
         }
         stage('Build') { 

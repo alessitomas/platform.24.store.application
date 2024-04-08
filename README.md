@@ -1,1 +1,1 @@
-# platform.24.store.candidatura
+# platform.24.store.inscricao
